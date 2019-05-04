@@ -1,0 +1,10 @@
+{
+  "workbench.colorTheme": "Dracula",
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.formatOnSave": true,
+  "prettier.eslintIntegration": true,
+  "editor.renderFinalNewline": true,
+  "editor.trimAutoWhitespace": true,
+  "editor.rulers": [80],
+  "editor.minimap.enabled": false
+}
