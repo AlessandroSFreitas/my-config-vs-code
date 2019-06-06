@@ -12,5 +12,7 @@
   "editor.renderWhitespace": true,
   "editor.insertSpaces": true,
   "editor.detectIndentation": true,
-  "editor.tabSize": 2
+  "editor.tabSize": 2,
+  "editor.gotoLocation.multiple": "goto",
+  "terminal.integrated.cursorStyle": "line",
 }
