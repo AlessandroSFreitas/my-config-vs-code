@@ -15,4 +15,7 @@
   "editor.tabSize": 2,
   "editor.gotoLocation.multiple": "goto",
   "terminal.integrated.cursorStyle": "line",
+  "terminal.integrated.shell.linux": "/bin/zsh",
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
 }
