@@ -1,29 +1,31 @@
 {
-  "workbench.colorTheme": "Dracula",
-  "workbench.iconTheme": "material-icon-theme",
-  "editor.formatOnSave": true,
-  "prettier.eslintIntegration": true,
-  "editor.renderFinalNewline": true,
-  "editor.trimAutoWhitespace": true,
-  "editor.rulers": [80],
-  "editor.minimap.enabled": false,
-  "files.trimTrailingWhitespace": true,
-  "files.insertFinalNewline": true,
-  "editor.renderWhitespace": true,
-  "editor.insertSpaces": true,
-  "editor.detectIndentation": true,
-  "editor.tabSize": 2,
-  "editor.gotoLocation.multiple": "goto",
-  "terminal.integrated.cursorStyle": "line",
-  "terminal.integrated.shell.linux": "/bin/zsh",
-  "editor.fontFamily": "Fira Code",
-  "editor.fontLigatures": true,
-  "ruby.lint": {
-    "reek": true,
-    "rubocop": true,
-    "ruby": true,
-    "fasterer": true,
-    "debride": true,
-    "ruby-lint": true
-  }
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.rulers": [
+        80
+    ],
+    "editor.minimap.enabled": false,
+    "files.trimTrailingWhitespace": true,
+    "files.insertFinalNewline": true,
+    "editor.renderWhitespace": true,
+    "editor.insertSpaces": true,
+    "editor.detectIndentation": true,
+    "editor.tabSize": 2,
+    "editor.gotoLocation.multiple": "goto",
+    "terminal.integrated.cursorStyle": "line",
+    "terminal.integrated.shell.linux": "/bin/zsh",
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "window.zoomLevel": 0,
+    "breadcrumbs.enabled": true,
+    "ruby.lint": {
+      "reek": true,
+      "rubocop": true,
+      "ruby": true,
+      "fasterer": true,
+      "debride": true,
+      "ruby-lint": true
+    },
+    "ruby.codeCompletion": "rcodetools",
+    "ruby.intellisense": "rubyLocate",
+    "workbench.colorTheme": "Default Material Dark Theme"
 }
