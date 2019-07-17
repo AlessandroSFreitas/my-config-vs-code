@@ -13,8 +13,6 @@
     "editor.gotoLocation.multiple": "goto",
     "terminal.integrated.cursorStyle": "line",
     "terminal.integrated.shell.linux": "/bin/zsh",
-    "editor.fontFamily": "Fira Code",
-    "editor.fontLigatures": true,
     "window.zoomLevel": 0,
     "breadcrumbs.enabled": true,
     "ruby.lint": {
