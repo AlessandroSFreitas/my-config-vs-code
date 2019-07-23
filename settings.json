@@ -3,7 +3,7 @@
   "editor.rulers": [
       80
   ],
-  "editor.minimap.enabled": false,
+  "editor.minimap.enabled": true,
   "files.trimTrailingWhitespace": true,
   "files.insertFinalNewline": true,
   "editor.renderWhitespace": true,
@@ -15,16 +15,14 @@
   "terminal.integrated.shell.linux": "/bin/zsh",
   "window.zoomLevel": 0,
   "breadcrumbs.enabled": true,
-  "ruby.lint": {
-    "reek": true,
-    "rubocop": true,
-    "ruby": true,
-    "fasterer": true,
-    "debride": true,
-    "ruby-lint": true
-  },
   "ruby.codeCompletion": "rcodetools",
   "ruby.intellisense": "rubyLocate",
   "workbench.startupEditor": "newUntitledFile",
-  "workbench.colorTheme": "dark-plus-syntax"
+  "workbench.colorTheme": "dark-plus-syntax",
+  "ruby.rubocop.onSave": true,
+  "ruby.rubocop.executePath": "/home/alessandro/.rbenv/shims/",
+  "ruby.lint": {
+    "ruby": true,
+    "rubocop": true
+  }
 }
