@@ -28,6 +28,9 @@
   },
   "workbench.colorCustomizations": {
     "activityBar.background": "#1A1A1A",
-    "statusBar.background": "#1A1A1A"
+    "activityBar.border": "#00264d",
+    "editor.lineHighlightBackground": "#00264d",
+    "statusBar.background": "#1A1A1A",
+    "statusBar.border": "#00264d",
   }
 }
