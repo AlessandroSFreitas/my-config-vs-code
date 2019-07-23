@@ -32,5 +32,11 @@
     "editor.lineHighlightBackground": "#00264d",
     "statusBar.background": "#1A1A1A",
     "statusBar.border": "#00264d",
+    "sideBar.border": "#00264d",
+    "notifications.background": "#00264d",
+    "terminal.border": "#00264d",
+    "dropdown.background": "#00264d",
+    "input.background":"#00264d",
+    "activityBar.foreground":"#3399ff"
   }
 }
