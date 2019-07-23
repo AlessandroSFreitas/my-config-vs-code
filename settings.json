@@ -10,6 +10,7 @@
   "editor.insertSpaces": true,
   "editor.detectIndentation": true,
   "editor.tabSize": 2,
+  "editor.fontSize": 14,
   "editor.gotoLocation.multiple": "goto",
   "terminal.integrated.cursorStyle": "line",
   "terminal.integrated.shell.linux": "/bin/zsh",
@@ -24,5 +25,9 @@
   "ruby.lint": {
     "ruby": true,
     "rubocop": true
+  },
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#1A1A1A",
+    "statusBar.background": "#1A1A1A"
   }
 }
