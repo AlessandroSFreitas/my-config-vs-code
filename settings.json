@@ -37,6 +37,8 @@
     "terminal.border": "#00264d",
     "dropdown.background": "#00264d",
     "input.background":"#00264d",
-    "activityBar.foreground":"#3399ff"
+    "activityBar.foreground":"#3399ff",
+    "sideBarSectionHeader.foreground":"#3399ff"
   }
 }
+
