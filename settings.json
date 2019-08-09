@@ -4,6 +4,7 @@
       80
   ],
   "editor.minimap.enabled": true,
+  "minimap.findMatchHighlight": true,
   "files.trimTrailingWhitespace": true,
   "files.insertFinalNewline": true,
   "editor.renderWhitespace": true,
@@ -19,7 +20,6 @@
   "ruby.codeCompletion": "rcodetools",
   "ruby.intellisense": "rubyLocate",
   "workbench.startupEditor": "newUntitledFile",
-  "workbench.colorTheme": "dark-plus-syntax",
   "ruby.rubocop.onSave": true,
   "ruby.rubocop.executePath": "/home/alessandro/.rbenv/shims/",
   "ruby.lint": {
@@ -38,6 +38,8 @@
     "dropdown.background": "#00264d",
     "input.background":"#00264d",
     "activityBar.foreground":"#3399ff"
-  }
+  },
+  "workbench.colorTheme": "dark-plus-syntax"
 }
+
 
