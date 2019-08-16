@@ -38,8 +38,7 @@
     "dropdown.background": "#00264d",
     "input.background":"#00264d",
     "activityBar.foreground":"#3399ff"
-  },
-  "workbench.colorTheme": "dark-plus-syntax"
+  }
 }
 
 
