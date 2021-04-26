@@ -1,44 +1,64 @@
 {
-  "workbench.iconTheme": "material-icon-theme",
-  "editor.rulers": [
-      80
-  ],
-  "editor.minimap.enabled": true,
-  "minimap.findMatchHighlight": true,
-  "files.trimTrailingWhitespace": true,
-  "files.insertFinalNewline": true,
-  "editor.renderWhitespace": true,
-  "editor.insertSpaces": true,
-  "editor.detectIndentation": true,
-  "editor.tabSize": 2,
-  "editor.fontSize": 14,
-  "editor.gotoLocation.multiple": "goto",
-  "terminal.integrated.cursorStyle": "line",
-  "terminal.integrated.shell.linux": "/bin/zsh",
-  "window.zoomLevel": 0,
-  "breadcrumbs.enabled": true,
-  "ruby.codeCompletion": "rcodetools",
-  "ruby.intellisense": "rubyLocate",
-  "workbench.startupEditor": "newUntitledFile",
-  "ruby.rubocop.onSave": true,
-  "ruby.rubocop.executePath": "/home/alessandro/.rbenv/shims/",
-  "ruby.lint": {
-    "ruby": true,
-    "rubocop": true
-  },
-  "workbench.colorCustomizations": {
-    "activityBar.background": "#1A1A1A",
-    "activityBar.border": "#00264d",
-    "editor.lineHighlightBackground": "#00264d",
-    "statusBar.background": "#1A1A1A",
-    "statusBar.border": "#00264d",
-    "sideBar.border": "#00264d",
-    "notifications.background": "#00264d",
-    "terminal.border": "#00264d",
-    "dropdown.background": "#00264d",
-    "input.background":"#00264d",
-    "activityBar.foreground":"#3399ff"
-  }
+  "workbench.colorTheme": "One Dark Pro",
+    "editor.fontFamily": "'JetBrains Mono'",
+    "editor.tabSize": 4,
+    "editor.fontSize": 14,
+    "editor.fontLigatures": true,
+    "editor.rulers": [79],
+    "editor.detectIndentation": true,
+    "files.trimTrailingWhitespace": true,
+    "tabnine.experimentalAutoImports": true,
+    "files.insertFinalNewline": true,
+    "breadcrumbs.enabled": true,
+    "workbench.colorCustomizations": {
+      "[One Dark Pro]": {
+        // tab
+        "tab.activeBackground": "#1B1726",
+        "tab.inactiveBackground": "#1B1726",
+        "tab.activeBorderTop":"#594D84",
+        // activityBar
+        "activityBar.activeBorder": "#594D84",
+        "activityBarBadge.background": "#9e8ae9",
+        "activityBar.background": "#1B1726",
+        "activityBar.foreground": "#9e8ae9",
+        // editor
+        "editor.background": "#1B1726",
+        "editorLineNumber.activeForeground": "#3C3354",
+        "editorLineNumber.foreground": "#3C3354",
+        "editorGroupHeader.tabsBackground": "#161221",
+        "editor.lineHighlightBackground": "#241E34",
+        // others
+        "breadcrumb.foreground": "#3C3354",
+        "progressBar.background": "#9e8ae9",
+        "titleBar.activeBackground": "#13101D",
+        "sideBar.background": "#13101D",
+        "terminal.background": "#13101D",
+        "statusBar.background": "#13101D",
+        "sideBarSectionHeader.background": "#191622",
+        "input.background": "#1B1726"
+      },
+    },
+    "editor.tokenColorCustomizations": {
+      "[One Dark Pro]": {
+        "textMateRules": [
+          {
+            "scope": ["source.python"],
+            "settings": {
+              "foreground": "#e06c75"
+            }
+          }
+        ]
+      }
+    },
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.productIconTheme": "fluent-icons",
+    "workbench.editorAssociations": [
+      {
+        "viewType": "jupyter.notebook.ipynb",
+        "filenamePattern": "*.ipynb"
+      }
+    ],
+    "python.showStartPage": false,
+    "workbench.iconTheme": "material-icon-theme"
 }
-
 
