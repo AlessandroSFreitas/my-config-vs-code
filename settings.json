@@ -62,3 +62,56 @@
     "workbench.iconTheme": "material-icon-theme"
 }
 
+{
+    "workbench.colorTheme": "Aura Soft Dark (Soft Text)",
+    "workbench.productIconTheme": "fluent-icons",
+    "workbench.tree.indent": 15,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "workbench.editor.showTabs": true,
+    "editor.minimap.enabled": false,
+    "bracketPairColorizer.depreciation-notice": false,
+    "editor.fontFamily": "'JetBrains Mono'",
+    "editor.renderWhitespace": "all",
+    "editor.tabSize": 4,
+    "editor.fontSize": 14,
+    "editor.fontLigatures": false,
+    "editor.guides.bracketPairs": true,
+    "editor.rulers": [
+        119
+    ],
+    "editor.detectIndentation": true,
+    "files.trimTrailingWhitespace": true,
+    "files.insertFinalNewline": true,
+    "breadcrumbs.enabled": true,
+    "workbench.colorCustomizations": {
+        "[One Dark Pro]": {
+            "tab.activeBackground": "#1B1726",
+            "tab.inactiveBackground": "#1B1726",
+            "tab.activeBorderTop": "#594D84",
+            "activityBar.activeBorder": "#594D84",
+            "activityBarBadge.background": "#9e8ae9",
+            "activityBar.background": "#1B1726",
+            "activityBar.foreground": "#9e8ae9",
+            "editor.background": "#1B1726",
+            "editorLineNumber.activeForeground": "#3C3354",
+            "editorLineNumber.foreground": "#3C3354",
+            "editorGroupHeader.tabsBackground": "#161221",
+            "editor.lineHighlightBackground": "#241E34",
+            "breadcrumb.foreground": "#3C3354",
+            "progressBar.background": "#9e8ae9",
+            "titleBar.activeBackground": "#13101D",
+            "sideBar.background": "#13101D",
+            "terminal.background": "#13101D",
+            "statusBar.background": "#13101D",
+            "sideBarSectionHeader.background": "#191622",
+            "input.background": "#1B1726"
+        }
+    },
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.iconTheme": "vscode-jetbrains-icon-theme",
+    "vs-kubernetes": {
+        "vscode-kubernetes.minikube-path.mac": "/Users/af/.vs-kubernetes/tools/minikube/darwin-amd64/minikube"
+    },
+    "redhat.telemetry.enabled": true,
+}
